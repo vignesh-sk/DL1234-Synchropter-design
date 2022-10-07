@@ -5,7 +5,7 @@
 - The CAD files are made using AutoDesk Inventor Pro -2019 edition
 - In order to see the files please download and open in the application
 
-## Affilian
+## Institutes
 Indian Institute Of Technology - Delhi
 ![image](https://user-images.githubusercontent.com/75610807/194604262-dee347b3-de6b-4606-93db-6478b6dda898.png)
 
